@@ -1,0 +1,50 @@
+body{
+    font-family: Arial;
+    margin: 0px;
+}
+nav{
+    height: 70px;
+    display: flex;
+
+}
+
+.secondary-black {
+    color: white;
+    background-color:rgb(4,117,186)
+}
+
+a {
+    color: white;
+}
+nav h2 {
+    margin: 0px;
+    padding: 20px 0px 15px;
+}
+    
+nav ul{
+    display: flex;
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+}
+nav li{
+    margin-left: 15px;
+}
+
+header{
+    text-align: center;
+    padding: 0 auto;
+}
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header h2 {
+    color: rgb(4,117,186);
+}
+header img{
+    width: 150px;
+    border-radius: 70px;
+    box-shadow: 3px 3PX 6px rgb(4,117,186);
+}
